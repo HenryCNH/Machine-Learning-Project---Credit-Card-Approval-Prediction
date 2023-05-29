@@ -2,7 +2,7 @@
 This model is able to predict applicants' credit score based on their personal information.
 
 ## Dataset Description
-Please find the raw data sets in the zipped file. One of the excel in the file includes applicants' personal information and the other excel file includes their previous credit score. These 2 excels can be connected by applicants'ID. 
+Please find the raw data sets in the zipped file. One of the excel in the file includes applicants' personal information and the other excel file includes their previous credit score. These 2 excels can be connected by applicants 'ID. 
 
 ## The entire model is composed of the following parts:
 1. Importing data.
